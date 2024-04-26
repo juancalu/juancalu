@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<!--
-**juancalu/juancalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-###Subtitulo
 - 🔭 I’m currently working on Phyton language <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,9 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
- 
- - 🔭 I’m currently working on Phyton language <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+- ⚡ Fun fact i'm play voleiball 🏐 
